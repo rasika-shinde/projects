@@ -94,6 +94,7 @@
                 </IconTabBar>
                 </content>
                 //first change
+                //second change
       </Page>
       <Page id="pg2" title="Main Page" showNavButton="true" navButtonText="Go to detail page." navButtonPress="onPressDetailBack">
                       <Label text="Hello UI5 "></Label>
